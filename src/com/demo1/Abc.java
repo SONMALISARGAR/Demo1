@@ -6,7 +6,7 @@ public class Abc {
   private	static int b=20;//static variable
 	
 	public void m1() {
-		System.out.println("hiiii");//istance method
+		System.out.println("hiiii java");//istance method
 		
 	}
 	static void m2 () {
