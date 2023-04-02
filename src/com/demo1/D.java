@@ -31,6 +31,7 @@ static void assingnvalueDemo() throws CloneNotSupportedException   {
 
 	public static void main(String[] args) throws CloneNotSupportedException{
 		assingnvalueDemo();
+		system.out.println("Hii");
 	
 }
 }
