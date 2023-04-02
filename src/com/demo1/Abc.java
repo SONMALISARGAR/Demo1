@@ -10,7 +10,7 @@ public class Abc {
 		
 	}
 	static void m2 () {
-		System.out.println("helloo");//static method
+		System.out.println("helloo java");//static method
 	}
 	
 
